@@ -1,0 +1,6 @@
+default:
+  - "eslint"
+  - "http-server"
+  - "bgShell:launchAPI"
+  - "watch"
+  # watch tells grunt to run continuallu in the background
